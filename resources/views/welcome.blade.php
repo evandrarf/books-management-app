@@ -18,8 +18,17 @@
 
     <div class="w-full h-screen text-slate-800 py-36 items-start px-28 flex flex-col">
         <h1 class="text-4xl">Pengelolaan Buku</h1>
-        <p class="text-gray-500 mt-6">Lakukan pengelolaan buku anda dengan sangat mudah dan aman</p>
-        <p class="text-gray-500 text-sm mt-2">Login/Register untuk melanjutkan</p>
+        <p class="text-gray-500 mt-6">Aplikasi pengelolaan buku yang dibuat dengan Laravel ini merupakan solusi yang
+            tepat bagi Anda yang memiliki koleksi buku yang banyak dan ingin mengelolanya dengan lebih terorganisir.
+            Dengan menggunakan aplikasi ini, Anda dapat dengan mudah mencatat daftar buku yang Anda miliki, termasuk
+            judul, penulis, penerbit, dan tahun terbit.</p>
+        <p class="text-gray-500 mt-6">
+
+            Aplikasi ini dikembangkan dengan menggunakan framework Laravel yang terkenal dengan kemudahan dan
+            kecepatannya dalam pengembangan aplikasi web. Jadi, Anda tidak perlu khawatir dengan kinerja aplikasi ini
+            yang akan selalu responsif dan cepat.</p>
+        <a href="{{route('register')}}" class="mt-8 px-6 py-3 bg-blue-600  rounded text-white hover:bg-blue-700">Get
+            Started</a>
     </div>
 </div>
 
