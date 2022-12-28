@@ -7,3 +7,5 @@ Aplikasi ini dikembangkan dengan menggunakan framework Laravel yang terkenal den
 Aplikasi ini bersifat open source, yang berarti anda dapat menggunakan untuk semua kebutuhan anda.
 
 Jangan lupa sebelum menjalankan aplikasi, lakukan perintah <span style="font-family:monospace; font-size:0.8rem;">composer install</span> dan <span style="font-family:monospace; font-size:0.8rem;">npm install</span> pada terminal. Dan jangan lupa ubah koneksi database pada file .env anda
+
+Demo app : <a href="https://evandrarf.site/">Demo</a>
